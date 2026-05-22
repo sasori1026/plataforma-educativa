@@ -1,0 +1,10 @@
+Django>=4.2,<5.0
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+django-filter
+psycopg2-binary
+Pillow
+openpyxl
+reportlab
+python-decouple
